@@ -1,9 +1,9 @@
 ### Hi there I'm Gabriel Collet👋
 
 
-[<p align="center">![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/gcollet?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcollet&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcollet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<p align="center">![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/gcollet?privacyEmail=true)](https://profile.intra.42.fr/users/gcollet)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcollet&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/gabcollet)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcollet&layout=compact)](https://github.com/gabcollet)
 </p>
 
 
