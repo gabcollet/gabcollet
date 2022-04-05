@@ -1,7 +1,8 @@
 ### Hi there I'm Gabriel Collet👋
 
 
-[<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcollet&hide=issues,contribs&show_icons=true&theme=radical)](https://github.com/gabcollet)  
+[<p align="center">![gcollet's 42 stats](https://badge42.vercel.app/api/v2/cl1mam7z5006609mjxx1v5bx8/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcollet&hide=issues,contribs&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcollet&layout=compact)](https://github.com/gabcollet)
 </p>
 
