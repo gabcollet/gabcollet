@@ -9,5 +9,6 @@
 
 - 🌱 I’m currently learning C, C++ and Python at 42 Québec school.
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-collet-b0504811a/
+- 📜 I also got some certificates on Sololearn: https://www.sololearn.com/profile/2702010
 - ⚡ All my projects on this github are put
 at your disposal to help you if you are on the same projects in another school. Please try not to copy, but rather use it for inspiration. The best way to learn is to do it yourself!
