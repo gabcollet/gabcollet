@@ -10,7 +10,7 @@
 </p>
 
 
-- 🌱 I’m currently learning C, C++ and Python at 42 Québec school.
+- 🌱 I’m currently learning React at 42 Québec school.
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-collet-b0504811a/
 - 💬 Or come talk to me on discord : gcollet#7478
 - 🔥 I love to do some leetcode! Join me : https://leetcode.com/gabcollet/
