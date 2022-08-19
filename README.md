@@ -11,7 +11,7 @@
 
 
 - 🌱 I’m currently learning React at 42 Québec school.
-- 📫 How to reach me: https://www.linkedin.com/in/gabriel-collet-b0504811a/
+- 📫 How to reach me: https://www.linkedin.com/in/gabcollet/
 - 💬 Or come talk to me on discord : gcollet#7478
 - 🔥 I love to do some leetcode! Join me : https://leetcode.com/gabcollet/
 - 📜 I also got some certificates on Sololearn: https://www.sololearn.com/profile/2702010
