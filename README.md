@@ -15,7 +15,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
@@ -28,7 +27,6 @@
 - 🌱 I’m currently learning React at 42 Québec school.
 - 📫 How to reach me: https://www.linkedin.com/in/gabcollet/
 - 💬 Or come talk to me on discord : gcollet#7478
-- 🔥 I love to do some leetcode! Join me : https://leetcode.com/gabcollet/
 - 📜 I also got some certificates on Sololearn: https://www.sololearn.com/profile/2702010
 
 > All my projects on this github are put at your disposal to help you if you're on the same projects in another school. Please try not to copy, but rather use it for inspiration. The best way to learn is to do it yourself!
