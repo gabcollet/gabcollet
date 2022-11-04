@@ -24,7 +24,7 @@
 </p>
 
 
-- 🌱 I’m currently learning React at 42 Québec school.
+- 🌱 I’m currently doing an internship at GPHY inc.
 - 📫 How to reach me: https://www.linkedin.com/in/gabcollet/
 - 💬 Or come talk to me on discord : gcollet#7478
 - 📜 I also got some certificates on Sololearn: https://www.sololearn.com/profile/2702010
