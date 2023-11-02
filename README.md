@@ -1,8 +1,6 @@
 ### Hello world! I'm Gabriel Collet👋
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)
-🤖 Artificial Intelligence and Bots<br/>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 💾 Databases<br/>
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
