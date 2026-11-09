@@ -1,4 +1,10 @@
-### Hello world! I'm Gabriel Collet👋
+### Hello world! I'm Gabriel Collet 👋
+
+**Developer turning repetitive work into software: AI, automation and full-stack web, from Québec.**
+
+#### 🌐 [gabcollet.com](https://gabcollet.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gabcollet/)
+
+- 🌱 I am currently working as a Magento 2 developer at FLB Solutions, and as a freelance developer in AI and automation on my own.
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)
 
@@ -36,15 +42,3 @@
 
 🗄️ Servers<br/>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-[<p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcollet&hide=issues,contribs&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabcollet&layout=compact)](https://github.com/gabcollet)
-</p>
-
-
-- 🌱 I am currently working and learning as a Magento 2 developer at FLB Solutions
-- 📫 How to reach me: https://www.linkedin.com/in/gabcollet/
-- 📜 I also got some certificates on Sololearn: https://www.sololearn.com/profile/2702010
-
-> All my projects on this github are put at your disposal to help you if you're on the same projects in another school. Please try not to copy, but rather use it for inspiration. The best way to learn is to do it yourself!
